@@ -1,8 +1,8 @@
 # Hi, I'm John Bass 👋
 
-### Frontend Software Engineer
+### Full-Stack Software Engineer
 
-I build responsive, accessible, and polished web applications — transforming ideas into clean user experiences with React, Next.js, TypeScript, and modern frontend tools.
+I build full-stack web applications end to end — from React/Next.js frontends to Node/Firebase backends and AI-powered features — turning ideas into polished, production-ready products.
 
 ---
 
@@ -42,6 +42,20 @@ I build responsive, accessible, and polished web applications — transforming i
 ---
 
 ## 🚀 Featured Projects
+
+### 🎬 [StoryForge](https://story-forge-tau-three.vercel.app)
+An AI pipeline that turns a one-line pitch into a fully-produced vertical video reel — generated script, comic-style scene art, narration, and an FFmpeg-assembled video.
+
+**Tech:** Node.js · Next.js · TypeScript · Groq/Llama · PostgreSQL
+
+---
+
+### 🤖 [CRM AI](https://independent-perfection-production-c08c.up.railway.app)
+A full-stack CRM with customer/contact management, role-based permissions, and AI features layered on top — meeting summaries, follow-up email drafts, and a customer Q&A chatbot.
+
+**Tech:** Next.js · Node.js/Express · Prisma · PostgreSQL · OpenAI API
+
+---
 
 ### 📌 [OfferBound](https://offerbound.vercel.app)
 A full-stack job application tracker designed and built from scratch — Google Auth, live stats dashboard, and follow-up reminders.
